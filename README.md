@@ -3,4 +3,6 @@ Repositorio que busca ser un canal de documentación sobre la creación identita
 
 # Herramientas Digitales
 ## WhatSapp:
+## Facebook:
+Saludo => Hola Gracias por aceptar mi invitación y unirte a mi facebook, espero que lo que comparta por este medio, sea útil, inspirador, entretenido
 
